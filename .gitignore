@@ -1,0 +1,17 @@
+node_modules/
+allure-results/
+allure-report/
+screenshots/
+logs/
+.env
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.sublime-workspace
